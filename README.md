@@ -26,4 +26,26 @@ It demonstrates practical health data science skills, including data cleaning, s
 
 ## Tools
 Python, pandas, scikit-learn, matplotlib, seaborn (Google Colab)
+# Disease Risk Prediction Using Machine Learning
+
+## Overview
+This project predicts the risk of disease using machine learning techniques.  
+It demonstrates data preprocessing, model training, and evaluation in a health context.
+
+## Dataset
+- Publicly available health dataset (or specify dataset link)
+
+## Methods
+- Data cleaning and preprocessing
+- Feature scaling
+- Logistic Regression for binary classification
+- Model evaluation with accuracy, confusion matrix, ROC-AUC
+
+## Key Insights
+- Identification of key risk factors for disease
+- Understanding of model performance and limitations
+- Application of ML techniques to health data
+
+## Tools & Skills
+Python, Pandas, Scikit-learn, Matplotlib, Data Preprocessing, Logistic Regression
 
